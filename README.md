@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Dakoumi.
 - 👀 I’m interested in Front-end web development.
-- 🌱 I’m currently learning Node js & express.
+- 🌱 I’m currently learning Typescript.
 - 💞️ I’m looking to collaborate on creative websites with great user experience.
 - 📫 How to reach me : dakoumi31@gmail.com
 
